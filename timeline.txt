@@ -1,0 +1,4 @@
+TIMELINE:-
+1. As we start the project, first 15 days will be learning and resource collection.
+2. next upcoming 15 days ,we'll work on front end app development
+3. In the month of september , we will work on the backend .
